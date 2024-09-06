@@ -1,0 +1,58 @@
+/* ThirdContainer.css */
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    height: 50vh; /* Full viewport height */
+    text-align: center; /* Center text horizontally */
+    padding: 20px; /* Optional padding for spacing */
+    margin: 4px;
+  }
+  
+  h2 {
+    margin: 20px 20px; /* Add margin to ensure spacing between elements */
+    font-size: 2.75vh;
+    padding-left: 2vh ;
+  }
+  
+  ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+  }
+  .vision-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    padding: 50px;
+    text-align: center;
+}
+
+.vision-item {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    transition: transform 0.3s ease;
+}
+
+.vision-item:hover {
+    transform: translateY(-10px);
+}
+
+.vision-item img {
+    width: 50px; /* Adjust according to your design */
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.vision-item h3 {
+    font-size: 1.5em;
+    color: #333; /* Customize for each section */
+    margin-bottom: 10px;
+}
+
+.vision-item p {
+    font-size: 1em;
+    color: #666;
+    line-height: 1.5;
+}
