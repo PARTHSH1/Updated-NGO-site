@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Updated-NGO-site/static/css/main.cf09d611.css",
+    "main.js": "/Updated-NGO-site/static/js/main.b0aa216d.js",
+    "static/js/453.c525d7c0.chunk.js": "/Updated-NGO-site/static/js/453.c525d7c0.chunk.js",
+    "static/media/3.png": "/Updated-NGO-site/static/media/3.7a1da11f0d250cc2ed5c.png",
+    "static/media/logo.png": "/Updated-NGO-site/static/media/logo.9b6addbe4066d2bdd634.png",
+    "static/media/4.jpg": "/Updated-NGO-site/static/media/4.53ecb620a0c4f969ee92.jpg",
+    "static/media/1.jpg": "/Updated-NGO-site/static/media/1.4113cd69220413864321.jpg",
+    "static/media/Desktop-Version-3.png": "/Updated-NGO-site/static/media/Desktop-Version-3.edd085e14997481cbed1.png",
+    "static/media/Desktop-Version-1.png": "/Updated-NGO-site/static/media/Desktop-Version-1.141deaab77148e053643.png",
+    "static/media/slick.svg": "/Updated-NGO-site/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Updated-NGO-site/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Updated-NGO-site/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Updated-NGO-site/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Updated-NGO-site/index.html",
+    "main.cf09d611.css.map": "/Updated-NGO-site/static/css/main.cf09d611.css.map",
+    "main.b0aa216d.js.map": "/Updated-NGO-site/static/js/main.b0aa216d.js.map",
+    "453.c525d7c0.chunk.js.map": "/Updated-NGO-site/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf09d611.css",
+    "static/js/main.b0aa216d.js"
+  ]
+}
